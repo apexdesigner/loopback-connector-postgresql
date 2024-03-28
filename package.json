@@ -1,6 +1,6 @@
 {
   "name": "@apexdesigner/loopback-connector-postgresql",
-  "version": "7.0.4",
+  "version": "7.0.5",
   "description": "Loopback PostgreSQL Connector",
   "keywords": [
     "LoopBack",
@@ -11,7 +11,7 @@
   "license": "Artistic-2.0",
   "main": "index.js",
   "author": "IBM Corp.",
-  "repository": "github:loopbackio/loopback-connector-postgresql",
+  "repository": "github:apexdesigner/loopback-connector-postgresql",
   "engines": {
     "node": "18 || 20"
   },
