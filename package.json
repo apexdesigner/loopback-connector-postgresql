@@ -1,6 +1,6 @@
 {
   "name": "@apexdesigner/loopback-connector-postgresql",
-  "version": "7.0.11",
+  "version": "7.0.12",
   "description": "Loopback PostgreSQL Connector",
   "keywords": [
     "LoopBack",
